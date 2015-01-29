@@ -1,0 +1,12 @@
+CROSS_HOST="x86_64-w64-mingw32"
+ORIG_PN="adwaita-icon-theme"
+inherit cross gnome2
+
+NAME="mingw64-x86_64-adwaita-icon-theme"
+VERSION=3.14.1
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="GNOME desktop icon theme for Win64 toolchain"
+DESCRIPTION="GNOME desktop icon theme"
+REQUIRES="mingw64-x86_64-hicolor-icon-theme"
+HOMEPAGE="http://art.gnome.org/"
