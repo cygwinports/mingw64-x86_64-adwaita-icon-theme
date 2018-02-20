@@ -3,7 +3,7 @@ ORIG_PN="adwaita-icon-theme"
 inherit cross gnome2
 
 NAME="mingw64-x86_64-adwaita-icon-theme"
-VERSION=3.24.0
+VERSION=3.26.1
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="GNOME desktop icon theme for Win64 toolchain"
